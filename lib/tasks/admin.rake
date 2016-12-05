@@ -1,5 +1,4 @@
 require 'sequel'
-require 'pry-byebug'
 
 namespace :admin do
   task :setup do
